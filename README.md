@@ -6,3 +6,4 @@ Use a python (neo4.py) script to create a neo4j graph
 
 The project uses py2neo and cypher to create the graph and relationships
 
+Next step is to combine this with the FBI most wanted list
